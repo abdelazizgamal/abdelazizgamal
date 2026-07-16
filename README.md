@@ -1,208 +1,162 @@
-# Hi there, I'm Abdelaziz Gamal 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding"/>
+<div align="center">
+
+<img src="./assets/banner.svg" width="100%" alt="Banner"/>
+
+# Abdelaziz Gamal
+
+### Software Engineer
+
+> **Engineering intelligent products from end to end.**
+
+<p>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer+(.NET+%26+Angular);Building+AI-Powered+Applications;Always+Learning+and+Building" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&color=3B82F6&width=700&lines=Building+Full-Stack+Applications;Designing+AI-Powered+Systems;Exploring+Cloud+Architecture;Always+Building+Something+New"/>
 
-<p align="center">
-  <a href="https://github.com/abdelazizgamal">
-    <img src="https://img.shields.io/github/followers/abdelazizgamal?label=Followers&style=for-the-badge&color=0969DA"/>
-  </a>
-</p>
+</div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🚀 About Me
+## 👋 About
 
-I'm a **Software Engineer** passionate about building products that solve real-world problems.
+I'm a **Software Engineer** focused on building scalable **ASP.NET Core** and **Angular** applications while integrating AI where it creates real value.
 
-My primary focus is developing **full-stack applications** using **ASP.NET Core** and **Angular**, while integrating **AI** where it creates meaningful value rather than using it as a trend.
+I enjoy designing clean architectures, solving real-world problems, and continuously learning modern software engineering, cloud, and AI technologies.
 
-Over the past few years I've worked on projects ranging from AI-powered healthcare systems and intelligent CRM platforms to machine learning applications and cloud-based solutions. I enjoy understanding how systems work under the hood, designing scalable architectures, and continuously improving the quality of the software I build.
+<img src="./assets/divider.svg" width="100%"/>
 
-Outside of coding, you'll usually find me exploring new technologies, experimenting with ideas, or learning something that pushes me a little further as an engineer.
+## 🚀 Current Focus
 
----
+| | |
+|:--|:--|
+| 🤖 | AI-powered CRM Platform |
+| 🏗️ | Full-Stack SaaS Applications |
+| ☁️ | Azure & Cloud Architecture |
+| 🧠 | Agentic AI & LLM-powered Systems |
 
-## 🎯 Current Focus
-
-* 💻 Building modern Full-Stack applications with **.NET & Angular**
-* 🤖 Designing **AI-powered** products and Agentic AI workflows
-* ☁️ Exploring **Azure**, cloud-native development, and DevOps
-* 🏗️ Learning software architecture, system design, and scalable backend development
-* 📚 Continuously improving engineering best practices
-
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,ts,js,python,cpp,java,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,python,postgres,mongodb,docker,azure,aws,git,github,vscode,visualstudio&perline=5"/>
 </p>
 
-### Backend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+`OpenAI` • `SignalR` • `Entity Framework Core` • `Copilot Studio` • `LangChain` • `Dataverse` • `TensorFlow` • `PyTorch`
+
 </p>
 
-* ASP.NET Core
-* Entity Framework Core
-* REST APIs
-* SignalR
-* Clean Architecture
-* FluentValidation
-
----
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap" />
-</p>
-
-* Angular
-* RxJS
-* TypeScript
-* Responsive UI
-* Reactive Forms
-
----
-
-### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-* OpenAI APIs
-* Microsoft Copilot Studio
-* Model Context Protocol (MCP)
-* Hugging Face
-* LangChain
-* Prompt Engineering
-* Scikit-Learn
-* TensorFlow
-* PyTorch
-* NLP
-* Computer Vision
-* RAG Applications
-
----
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git" />
-</p>
-
----
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-* SQL Server
-* PostgreSQL
-* MongoDB
-* Dataverse
-* Qdrant Vector Database
-
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## ⭐ Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🤖 Tager AI
+AI-powered CRM that transforms social media conversations into structured customer orders.
 
-AI-powered CRM platform that transforms Instagram conversations into structured customer orders using Large Language Models.
+**Stack**
 
-**Tech:** ASP.NET Core • Angular • PostgreSQL • OpenAI • Azure
+`.NET` `Angular` `PostgreSQL` `OpenAI`
 
----
+🔗 **Repository:** https://github.com/Tager-Platform/Tager-Backend
+
+📷 *Add screenshot later*
+
+</td>
+<td width="50%">
 
 ### 🏥 AI Clinic Assistant
+Multi-agent healthcare management system powered by Microsoft Copilot Studio.
 
-A multi-agent healthcare management system built with Microsoft Copilot Studio and Dataverse to automate patient registration, appointment booking, and clinic operations.
+**Stack**
 
-**Tech:** Copilot Studio • Dataverse • Power Platform • MCP
+`Copilot Studio` `Dataverse` `MCP`
 
----
+🔗 **Repository:** https://github.com/abdelazizgamal/Clinic_Dynamics365_AgenticAi
+
+📷 *Add screenshot later*
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🎙️ Speech Emotion Recognition
 
-Real-time deep learning system capable of recognizing emotions from speech.
+IEEE published graduation project for real-time speech emotion recognition.
 
-* IEEE Published Research
-* Graduation Project (Grade A)
+`Python` `TensorFlow`
 
-**Tech:** Python • TensorFlow • Deep Learning
+🔗 **Repository:** https://github.com/abdelazizgamal/Speech-Emotion-Recognition
 
----
+</td>
+
+<td>
 
 ### 📊 AI Market Analyzer
 
-An intelligent platform that performs feasibility studies, competitor analysis, and market insights using AI.
+AI platform for feasibility studies and competitor analysis.
 
 🏆 **First Place Graduation Project**
 
----
+🔗 **Repository:** https://github.com/abdelazizgamal/DEPI_Market_Analyzer
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelazizgamal&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelazizgamal&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=abdelazizgamal&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
-## 📊 Contribution Graph
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelazizgamal&theme=github-dark&hide_border=true"/>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🌱 Beyond Coding
+## 💡 Engineering Principles
 
-I enjoy working on projects that combine software engineering with artificial intelligence. My goal is to build applications that are reliable, scalable, and genuinely useful to the people who use them.
+- Build for people, not just for technology.
+- Keep architectures simple and maintainable.
+- Use AI where it adds measurable value.
+- Never stop learning.
 
-I believe the best way to grow as an engineer is to stay curious, keep building, and never stop learning.
+<img src="./assets/divider.svg" width="100%"/>
 
----
+## 📫 Connect
 
-## 📫 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-</p>
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | https://www.linkedin.com/in/abdelaziz-gamal |
+| 📧 Email | abdelazizgamal67@gmail.com |
+| 📄 Resume | https://drive.google.com/file/d/104Nn8Q3PUdZK-iUGmS4bv3BMOA747ECH/view?usp=sharing |
 
 ---
 
-<p align="center">
-<i>"Great software isn't just about writing code—it's about solving the right problem."</i>
-</p>
+<div align="center">
+
+### Thanks for visiting!
+
+**Building software that makes an impact.**
+
+</div>
