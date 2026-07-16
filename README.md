@@ -10,8 +10,9 @@
 > **Engineering intelligent products from end to end.**
 
 <p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdelaziz-gamal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="abdelazizgamal67@gmail.com
+"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge"/></a>
 </p>
 
@@ -69,7 +70,6 @@ AI-powered CRM that transforms social media conversations into structured custom
 
 🔗 **Repository:** https://github.com/Tager-Platform/Tager-Backend
 
-📷 *Add screenshot later*
 
 </td>
 <td width="50%">
@@ -83,7 +83,6 @@ Multi-agent healthcare management system powered by Microsoft Copilot Studio.
 
 🔗 **Repository:** https://github.com/abdelazizgamal/Clinic_Dynamics365_AgenticAi
 
-📷 *Add screenshot later*
 
 </td>
 </tr>
@@ -117,22 +116,6 @@ AI platform for feasibility studies and competitor analysis.
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelazizgamal&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelazizgamal&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abdelazizgamal&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelazizgamal&theme=github-dark&hide_border=true"/>
-</p>
-
-<img src="./assets/divider.svg" width="100%"/>
 
 ## 💡 Engineering Principles
 
